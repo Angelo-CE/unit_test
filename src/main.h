@@ -7,7 +7,7 @@
 
 
 class main {
-
+    main(int, char**);
 };
 
 
